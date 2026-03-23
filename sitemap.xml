@@ -1,49 +1,53 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://airus.uk/</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://airus.uk/index.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://airus.uk/about.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://airus.uk/courses.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://airus.uk/contact.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://airus.uk/courses/ai.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://airus.uk/courses/cloudcomputing.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://airus.uk/courses/java.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://airus.uk/courses/webdevelopment.html</loc>
-<lastmod>2025-12-03T10:34:48+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://airus.org.in/</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://airus.org.in/about.html</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://airus.org.in/courses.html</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://airus.org.in/contact.html</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://airus.org.in/courses/ai.html</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://airus.org.in/courses/cloudcomputing.html</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://airus.org.in/courses/java.html</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://airus.org.in/courses/webdevelopment.html</loc>
+    <lastmod>2026-03-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
